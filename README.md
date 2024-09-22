@@ -32,16 +32,6 @@ Sou formada em Análise e Desenvolvimento de Sistemas pela Estácio e atualmente
 
 ##
 
-### 📊 Projetos Power BI
-
-Aqui estão algumas capturas de tela do meu projeto em Power BI, desenvolvido durante o curso de Analista BI na DNC:
-
-<div>
-  <img src="https://github.com/Rannatpf/Desafio_Dash_BI_DNC/blob/main/Captura%20de%20tela%202024-09-12%20172236.png" alt="Relatório Power BI 1" width="400" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://github.com/Rannatpf/Desafio_Dash_BI_DNC/blob/main/Captura%20de%20tela%202024-09-12%20172304.png" alt="Relatório Power BI 2" width="400" style="display: inline-block;" />
-</div>
-
-##
 
 ### 📫 Vamos nos conectar!
 
